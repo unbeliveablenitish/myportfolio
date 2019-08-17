@@ -1,26 +1,26 @@
 {
-    "name": "Bharat Agarwal",
+    "name": "nitish kumar",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
+            "title": "c",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
+            "title": "c++",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "python",
             "rating": "85"
         },{
-            "title": "Skill 1",
+            "title": "team management",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "lovely professional university",
+        "phone": "6205218273",
+        "email": "nitish.kumarnitish09@gmail.com"
     }
 }
